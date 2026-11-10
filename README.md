@@ -71,8 +71,10 @@ _我的头像就是我为一只三花猫画的水彩，它的名字叫“茉莉�
 
 <div align="center">
 
+<!-- ![[kitty])()] -->
+
 <a href="https://github.com/ln1325/animals/issues">
-    </img src="https://avatars.githubusercontent.com/u/326388473?v=4&size=64)">
+    </img src="https://avatars.githubusercontent.com/u/326388473?v=4&size=64">
 </a>
 
 </div>
