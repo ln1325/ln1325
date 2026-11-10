@@ -47,8 +47,8 @@ _江山艺术_
 
 | 项目 | 介绍 | 当前状态 |
 |---|---|---|
-| animals[animals](https://github.com/ln1325/animals) | 一个让我很开心的小作品，这很“艺术人”！ | 🛠️ 正在开发 |
-| sketch-single-person-templates[sketch-single-person-templates](https://github.com/ln1325/sketch-single-person-templates) | 美术联考素材库 - 速写素材_单人模板 | 已经完成全部文件上传，要看看吗？ |
+| [animals](https://github.com/ln1325/animals) | 一个让我很开心的小作品，这很“艺术人”！ | 🛠️ 正在开发 |
+| [sketch-single-person-templates](https://github.com/ln1325/sketch-single-person-templates) | 美术联考素材库 - 速写素材_单人模板 | 已经完成全部文件上传，要看看吗？ |
 
 ## 🎲 今日份小目标
 
@@ -70,7 +70,7 @@ _江山艺术_
 _我的头像就是我为一只三花猫画的水彩，它的名字叫“茉莉”(jasmine)，它的主人是我的同学，她的绘画技术比我更高超！_
 
 
-![我的主页图片(https://avatars.githubusercontent.com/u/326388473?v=4&size=64)](https://github.com/ln1325/animals/issues)
+![(https://avatars.githubusercontent.com/u/326388473?v=4&size=64)](https://github.com/ln1325/animals/issues)
 > 如果你愿意分享你的猫咪照片，我会考虑给它画一张水彩或素描（如果你有猫或者是有喜欢的猫），我会将这些可爱的猫猫放在我的某一个仓库的issue，在这个issue里发送你的猫咪照片，我看到后会考虑是否动手创作（=^·◞◟·^=）~
 ---
 
