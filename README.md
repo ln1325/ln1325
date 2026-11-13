@@ -4,6 +4,8 @@
 
 ### ---- ✨ 欢迎来到我的 GitHub 小宇宙 ✨ ----
 
+[heart](https://github.com/ln1325/ln1325/blob/main/mmexport524e8dce5b527a31cdcecaebfa1c1270_1794579199305.gif)
+
 🎨 正在学习新东西和旧东西
 ☕ 靠最基本的化学物质
 """["碳","氢","氧","氮","磷","钠","氯"]"""
