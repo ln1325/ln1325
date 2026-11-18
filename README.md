@@ -82,7 +82,7 @@ _江山艺术_
 
 **👾你快去写代码！不要发呆啦！👾**
 
-![paw](https://github.com/ln1325/ln1325/blob/main/mmexport88c685d9828b79081367a7fbe7972e65_1794681408198.gif)
+![paw](https://github.com/ln1325/ln1325/blob/main/mmexport6f6fdcdfd3f91a0a39b22ab7621eaa71_1794667862250.gif)
 —-
 
 ## 📊 GitHub 小数据（没什么好看的，我只是个无名之辈）
