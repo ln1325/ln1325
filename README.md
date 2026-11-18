@@ -53,6 +53,8 @@ _江山艺术_
 <p></p>
 
 **（5）在我发现某种食物美味且实惠时，我就会把吃这个食物丢进while True，直到我发现比它更优的选择我才会停止🤤**
+
+---
 ![cateating](https://github.com/ln1325/ln1325/blob/main/mmexportec4dfefdf1942cbb96a97109a0c15326_1794667849621.gif)
 
 ---
@@ -79,7 +81,9 @@ _江山艺术_
 - [ ] 每日一清Temp文件夹
 
 **👾你快去写代码！不要发呆啦！👾**
+
 ![paw](https://github.com/ln1325/ln1325/blob/main/mmexport88c685d9828b79081367a7fbe7972e65_1794681408198.gif)
+—-
 
 ## 📊 GitHub 小数据（没什么好看的，我只是个无名之辈）
 
