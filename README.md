@@ -14,8 +14,10 @@
 ‘’’
 续命
 - 🐛 偶尔和 Bug 聊聊天（你这代码怎么这样？！）
-- 孤单的时候会想BinarySearch(“cat”)//找猫…这比对着橡皮鸭发呆好太多了 [kitty](https://github.com/ln1325/ln1325/blob/fe7a82b87ae1ee223efce9569d7572ec150131e5/mmexport45a0063d029856953bf3360fbd9b0946_1794757604619.png)
-<br>
+- 孤单的时候会想BinarySearch(“cat”)//找猫…这比对着橡皮鸭发呆好太多了
+![kitty](https://github.com/ln1325/ln1325/blob/fe7a82b87ae1ee223efce9569d7572ec150131e5/mmexport45a0063d029856953bf3360fbd9b0946_1794757604619.png)
+---
+
 ![Profile views](https://komarev.com/ghpvc/?username=ln1325&color=blueviolet&style=flat-square&label=Views)
 </div>
 
