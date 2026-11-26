@@ -1,21 +1,22 @@
 <div align="center">
-# 北京时间 2026年11月28日00时至11月30日24时 我将进行美术联考，届时我将暂停更新仓库
-# 👋 嗨，你找到了一个非常雷霆抽象的人并进入了她的雷霆大主页！！
+<h1>北京时间 2026年11月28日00时至11月30日24时 我将进行美术联考，届时我将暂停更新仓库</h1>
+<br>
+<h3>👋 嗨，你找到了一个非常雷霆抽象的人并进入了她的雷霆大主页！！</h3>
 
 ### ---- ✨ 欢迎来到我的 GitHub 小宇宙 ✨ ----
 
 ![heart](https://github.com/ln1325/ln1325/blob/main/mmexport524e8dce5b527a31cdcecaebfa1c1270_1794579199305.gif)
 
-🎨 正在学习新东西和旧东西
-☕ 靠最基本的化学物质
-"""
+- 🎨 正在学习新东西和旧东西
+- ☕ 靠最基本的化学物质
+‘’’
 ["碳","氢","氧","氮","磷","钠","氯"]
-"""
+‘’’
 续命
-🐛 偶尔和 Bug 聊聊天（你这代码怎么这样？！）
-
-![Profile views](https://komarev.com/ghpvc/?username=ln1325&color=blueviolet&style=flat-square&label=来访次数)
-
+- 🐛 偶尔和 Bug 聊聊天（你这代码怎么这样？！）
+- 孤单的时候会想BinarySearch(“cat”)//找猫…这比对着橡皮鸭发呆好太多了 [kitty](https://github.com/ln1325/ln1325/blob/fe7a82b87ae1ee223efce9569d7572ec150131e5/mmexport45a0063d029856953bf3360fbd9b0946_1794757604619.png)
+<br>
+![Profile views](https://komarev.com/ghpvc/?username=ln1325&color=blueviolet&style=flat-square&label=Views)
 </div>
 
 ---
@@ -34,10 +35,11 @@ _江山艺术_
 ![江山艺术](https://github.com/ln1325/ln1325/blob/main/mmexport88c685d9828b79081367a7fbe7972e65_1794681408198.gif))
 ---
 ### 其他
-- 🔭 最近在折腾：**[如何让自己变得更聪明🤔]**
-- 🌱 正在学习：**[Python , HTML , 美术以及高中课程]**
-- 🎯 接下来想做：**[冲刺！2027年全国性美术联合考试（美术联考）]**
-- 💬 可以和我聊：**[美术创作，或是如何用代码实现一些很好玩的东西]**
+- 🔭 最近在折腾：**如何让自己变得更聪明🤔**
+- 🌱 正在学习：**Python , HTML , 美术以及高中课程**
+- 🎯 接下来想做：**冲刺！2027年全国性美术联合考试（美术联考）**
+- 💬 可以和我聊：**美术创作，或是如何用代码实现一些很好玩的东西**
+- 📑 可以让我做：**优化中文文档（如果你的额度用完了又很着急要优化一门不熟悉的语言写成的readme）**
 ---
 ### ⚡ 关于我的冷知识：
 **（1）我的前额叶一直处于一种浆糊一样的状态，所以我总是傻乎乎的**
@@ -59,17 +61,25 @@ _江山艺术_
 
 ---
 
-## 🧰 我的工具箱（实际上并不能熟练使用）
+## 🧰 我的工具箱（实际上并不能熟练使用并且大部分时候是“积满灰尘”的状态）
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
 ## 🚀 最近在这里做的事情
+
+> 注意⚠️：我将于北京时间2026年12月01日00时不再向素材库上传图片，但仍接受PR（图片素材添加/文档优化）和issues（素材分享/版权问题反馈），所有与美术联考相关的素材库暂定于北京时间2030年1月1日11时至13时删除，以腾出更多空间给想要发挥创意的人，毕竟这里是开源社区，我的素材库不算是好东西，况且我并不自私
 
 | 项目 | 介绍 | 当前状态 |
 |---|---|---|
 | [animals](https://github.com/ln1325/animals) | 一个让我很开心的小作品，这很“艺术人”！ | 🛠️ 正在开发 |
-| [sketch-single-person-templates](https://github.com/ln1325/sketch-single-person-templates) | 美术联考素材库 - 速写素材_单人模板 | 已经完成全部文件上传，要看看吗？ |
+| [sketch-full-scene](https://github.com/ln1325/sketch-full-scene) | 美术联考素材库 - 速写素材_场景模版 | 最完整的速写考试答卷画面参考，要看看吗？ |
+| [readable-code-skill](https://github.com/ln1325/readable-code-skill) | 闲的没事干跟AI一起做了一个skill | 已经不知道怎么写下去了，用完记得给我”锐评”👊😆 |
 
 ## 🎲 今日份小目标
 
